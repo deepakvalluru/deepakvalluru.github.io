@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "TESTNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rP5CN3ibxCPkiMxATSJLe3YZcud5iD9MEn"
+      }
+    }
+  ],
+  "payId": "test1$deepakvalluru.github.io"
+}
