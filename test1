@@ -4,14 +4,16 @@
     {
       "paymentNetwork": "XRPL",
       "environment": "TESTNET",
-      "details": {
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
         "address": "rGt2qhs3HqHcGS3fmz18Px1AnbRuBe7iBT"
       }
     },
     {
       "paymentNetwork": "ETH",
       "environment": "ROPSTEN",
-      "details": {
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
         "address": "0x72cD8A98c69080B5d53f8317d433cd011b272bbB"
       }
     }
