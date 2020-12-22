@@ -1,0 +1,13 @@
+{
+  "payId": "test2$deepakvalluru.github.io",
+  "addresses": [
+    {
+      "paymentNetwork": "ETH",
+      "environment": "ROPSTEN",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "0x72cD8A98c69080B5d53f8317d433cd011b272bbB"
+      }
+    }
+  ]
+}
