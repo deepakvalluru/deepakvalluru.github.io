@@ -7,6 +7,13 @@
       "addressDetails": {
         "address": "rP5CN3ibxCPkiMxATSJLe3YZcud5iD9MEn"
       }
+    },
+    {
+      "paymentNetwork": "ETH",
+      "environment": "ROPSTEN",
+      "details": {
+        "address": "0x72cD8A98c69080B5d53f8317d433cd011b272bbB"
+      }
     }
   ],
   "payId": "test1$deepakvalluru.github.io"
