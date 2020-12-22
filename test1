@@ -1,21 +1,19 @@
 {
+  "payId": "test1$deepakvalluru.sandbox.paystring.org",
   "addresses": [
     {
       "paymentNetwork": "XRPL",
       "environment": "TESTNET",
-      "addressDetailsType": "CryptoAddressDetails",
-      "addressDetails": {
-        "address": "rP5CN3ibxCPkiMxATSJLe3YZcud5iD9MEn"
+      "details": {
+        "address": "rGt2qhs3HqHcGS3fmz18Px1AnbRuBe7iBT"
       }
     },
     {
       "paymentNetwork": "ETH",
       "environment": "ROPSTEN",
-      "addressDetailsType": "CryptoAddressDetails",
-      "addressDetails": {
+      "details": {
         "address": "0x72cD8A98c69080B5d53f8317d433cd011b272bbB"
       }
     }
-  ],
-  "payId": "test1$deepakvalluru.github.io"
+  ]
 }
