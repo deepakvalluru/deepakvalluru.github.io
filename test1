@@ -1,5 +1,5 @@
 {
-  "payId": "test1$deepakvalluru.sandbox.paystring.org",
+  "payId": "test1$deepakvalluru.github.io",
   "addresses": [
     {
       "paymentNetwork": "XRPL",
